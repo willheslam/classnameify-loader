@@ -1,0 +1,28 @@
+{
+  "name": "classnameify-loader",
+  "version": "1.0.0",
+  "description": "A Webpack Loader for Classnameify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willheslam/classnameify-loader.git"
+  },
+  "author": "William Heslam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willheslam/classnameify-loader/issues"
+  },
+  "homepage": "https://github.com/willheslam/classnameify-loader#readme",
+  "dependencies": {
+    "unistyle": "^0.3.0"
+  },
+  "engines": {
+    "node": ">=4.2.2"
+  },
+  "devDependencies": {
+    "classnameify": "^1.0.0"
+  }
+}
