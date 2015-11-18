@@ -1,6 +1,6 @@
 {
   "name": "classnameify-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Webpack Loader for Classnameify",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,10 @@
   },
   "homepage": "https://github.com/willheslam/classnameify-loader#readme",
   "dependencies": {
-    "unistyle": "^0.3.0"
+    "classnameify": "^1.0.0"
   },
   "engines": {
     "node": ">=4.2.2"
   },
-  "devDependencies": {
-    "classnameify": "^1.0.0"
-  }
+  "devDependencies": {}
 }
